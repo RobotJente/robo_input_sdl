@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x -g  -rdynamic CMakeFiles/robo_input_sdl.dir/main.cpp.o  -o robo_input_sdl -lSDL2 
