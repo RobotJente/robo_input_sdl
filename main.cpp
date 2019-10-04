@@ -13,7 +13,7 @@ int main()
 
 // Initialize the joystick subsystem
     SDL_InitSubSystem(SDL_INIT_JOYSTICK);
-
+    // HAHAHA BLUB
 // Check for joystick
     if (SDL_NumJoysticks() > 0) {
         // Open joystick
